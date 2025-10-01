@@ -29,6 +29,7 @@ h1{
     color: whitesmoke;
      padding-top: 55px;
     font-family: hey;
+    font-weight:100;
     /* background: linear-gradient(45deg,#ffc195, #8eafc0);
     background-clip: text;   /* Clips gradient to text */
   /* -webkit-text-fill-color: transparent; Makes text transparent so gradient shows  */
